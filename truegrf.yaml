@@ -1,4 +1,7 @@
 description: A new TrueGRF project
-license: CC0-1.0
+grfid: f2f55879
+license: CC-BY-ND-4.0
+name: deutschestadtnamen
 type: townname
+url: https://github.com/Ilearnprogramming/deutschestadtnamen
 version: 6
